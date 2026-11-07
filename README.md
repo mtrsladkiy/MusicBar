@@ -1,4 +1,14 @@
-# Music Bar
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="src/main/resources/assets/musicbar/icon.png" width="220">
+    </td>
+    <td align="center" valign="middle">
+      <img src="preview.png" width="500">
+    </td>
+  </tr>
+</table>
+# Music Bar 
 
 **Автор:** nikitamono AKA mtrsladkiy
 
