@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "musicbar",
+  "version": "${version}",
+  "name": "Music Bar",
+  "description": "Музыкальный плеер на HUD: показывает трек, который играет на компьютере. Редактор цветов, свечение по краям, пульсация под бит. Автор: nikitamono AKA mtrsladkiy.",
+  "authors": [
+    "nikitamono AKA mtrsladkiy"
+  ],
+  "icon": "assets/musicbar/icon.png",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.musicbar.MusicBarClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
